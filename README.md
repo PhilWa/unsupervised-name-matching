@@ -76,5 +76,6 @@ By using this workflow, we can map these different name variants to a single nam
 
 ## Contact
 philipp.warmer@gmail.com
+
 https://www.linkedin.com/in/philippwarmer/
 
