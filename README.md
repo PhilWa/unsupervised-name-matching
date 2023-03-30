@@ -1,4 +1,6 @@
 # Unsupervised Name-Matching — Introducing John to Dr. Watson
+![](data/header.jpg)
+
 
 This repository showcases an unsupervised workflow to determine the underlying name-groups of different name variants. The goal is to explain to the computer that both ‘John’ and ‘Dr. Watson’ both refer to the name-group ‘Dr. John H. Watson’. More info you can find in this  [blogpost](https://medium.com/d-one/unsupervised-name-matching-made-easy-introducing-john-to-dr-watson-d543cbdc26e5)
 
